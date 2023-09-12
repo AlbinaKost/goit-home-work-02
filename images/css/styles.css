@@ -1,0 +1,4 @@
+h1 {
+ color: var(--WHITE, #FFF);
+ text-align: center;
+}
