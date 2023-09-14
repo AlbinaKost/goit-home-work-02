@@ -2,8 +2,13 @@
     font-family:'Roboto',sans-serif;
     background-color: #FFFFFF;
     color: #434455;
+    font-family: "Raleway", sans-serif;
+    color: #4d5ae5;
  }
- 
+
+ .header-menu-list {
+  color: #2e2f42;
+ }
 .hero {
   background: #2E2F42;
 }
@@ -19,7 +24,9 @@
   .span-logo {
    color: #4D5AE5;  
  }
-
+ .span-studio {
+  color: #2e2f42;
+ }
  .header-menu-item {
   color: #2E2F42;
   font-size: 16px;
@@ -31,6 +38,7 @@
  .address-list {
   color:  #434455;
   font-size: 16px;
+  font-style: normal;
   font-weight: 400;
   line-height: 1.5px;
   letter-spacing: 0.02em;
@@ -38,6 +46,7 @@
  .address-link {
   color: #434455;
   font-size: 16px;
+  font-style: normal;
   font-weight: 400;
   line-height: 1.5px;
   letter-spacing: 0.02em;
@@ -46,9 +55,10 @@
  
  .hero-title { 
   color: #FFF;
+  text-align: center;
   font-weight: 700;
   line-height: 1.07px;
-  letter-spacing: 1.02px;
+  letter-spacing: 0.02em;
   font-size: 56px;
  }
 
@@ -81,8 +91,10 @@ font-weight: 400;
 line-height: 1.5px;
 letter-spacing: 0.02em;
  }
-
- .subject {
+.contact-aside-item {
+  background-color: #F4F4FD
+}
+ .subject-content-aside {
   color: #2E2F42;
   font-size: 36px;
   font-weight: 700;
@@ -90,6 +102,9 @@ letter-spacing: 0.02em;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
+ }
+ .section-items {
+  background-color: #F4F4FD
  }
  .subject-item {
   color: #2E2F42;
@@ -138,6 +153,9 @@ letter-spacing: 0.02em;
  }
  .span-footer {
   color: #4D5AE5;
+ }
+ .span-studio{
+  color: #f4f4fd;
  }
 
 .footer-html {
