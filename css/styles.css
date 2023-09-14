@@ -1,0 +1,150 @@
+ body {
+    font-family:'Roboto',sans-serif;
+    font-family:'Raleway',sans-serif;
+ }
+ 
+ 
+ .header-logo {
+   color: #2E2F42;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 1.16;
+   letter-spacing: 0.03px;
+   text-transform: uppercase;
+ }
+
+  .span-logo {
+   color: #4D5AE5;  
+ }
+
+ .header-menu-item{
+  color: #2E2F42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02px;
+ }
+ 
+ .address-list {
+  color:  #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5px;
+  letter-spacing: 0.02px;
+ }
+ .address-link {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5px;
+  letter-spacing: 0.02px;
+ }
+
+ 
+ .hero-title {
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07px;
+letter-spacing: 1.02px;
+ }
+
+
+.hero-bye-btn {
+  border-radius: 4px;
+  background: #4D5AE5;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+ 
+ .title-link {
+  color:#2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2px;
+letter-spacing: 0.02px;
+ }
+ .title-link-text {
+  color: #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5px;
+letter-spacing: 0.02px;
+ }
+
+ .subject{
+  color: #2E2F42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11px;
+  letter-spacing: 0.02px;
+  text-transform: capitalize;
+  text-align: center;
+ }
+ .subject-item {
+  color: #2E2F42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2px;
+  letter-spacing: 0.02px;
+ }
+ .subject-item-desk {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5px;
+  letter-spacing: 0.02px; 
+ }
+  
+.title-section{
+  color:#2E2F42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11px;
+  letter-spacing: 0.02px;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.servises {
+  color: #2E2F42;
+  font-weight: 500;
+  line-height: 1.2px;
+  letter-spacing: 0.02px;
+  font-size: 20px;
+}
+ .activity {
+  color: #434455;
+  font-weight: 400;
+  line-height: 1.5px;
+  letter-spacing: 0.02px;
+  font-size: 16px;
+ }
+
+ .footer{
+  background: #2E2F42;
+ }
+ .span-footer {
+  color: #4D5AE5;
+ }
+
+.footer-html{
+  color: #F4F4FD;
+  font-weight: 700;
+  line-height: 1.16px;
+  letter-spacing: 0.03px;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.footer-text {
+  color: #F4F4FD;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5px;
+  letter-spacing: 0.02px;
+  
+ 
+}
+
+
+
+
+
