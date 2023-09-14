@@ -2,8 +2,6 @@
     font-family:'Roboto',sans-serif;
     background-color: #FFFFFF;
     color: #434455;
-    font-family: "Raleway", sans-serif;
-    color: #4d5ae5;
  }
 
  .header-menu-list {
@@ -21,9 +19,7 @@
    text-transform: uppercase;
  }
 
-  .span-logo {
-   color: #4D5AE5;  
- }
+  
  .span-studio {
   color: #2e2f42;
  }
@@ -114,7 +110,7 @@ letter-spacing: 0.02em;
   line-height: 1.2px;
   letter-spacing: 0.02em;
  }
- .subject-item-desk {
+ .subject-paragraph {
   color: #434455;
   text-align: center;
   font-size: 16px;
@@ -166,15 +162,13 @@ letter-spacing: 0.02em;
   text-transform: uppercase;
   font-size: 18px;
 }
-.footer-text {
+.footer-paragraph {
   color: #F4F4FD;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5px;
   letter-spacing: 0.02em;
-  
- 
-}
+ }
 
 
 
