@@ -1,9 +1,12 @@
  body {
     font-family:'Roboto',sans-serif;
-    font-family:'Raleway',sans-serif;
+    background-color: #FFFFFF;
+    color: #434455;
  }
  
- 
+.hero {
+  background: #2E2F42;
+}
  .header-logo {
    color: #2E2F42;
    font-size: 18px;
@@ -17,7 +20,7 @@
    color: #4D5AE5;  
  }
 
- .header-menu-item{
+ .header-menu-item {
   color: #2E2F42;
   font-size: 16px;
   font-weight: 500;
@@ -41,19 +44,28 @@
  }
 
  
- .hero-title {
-font-size: 56px;
-font-weight: 700;
-line-height: 1.07px;
-letter-spacing: 1.02px;
+ .hero-title { 
+  color: #FFF;
+  font-weight: 700;
+  line-height: 1.07px;
+  letter-spacing: 1.02px;
+  font-size: 56px;
  }
 
 
 .hero-bye-btn {
-  border-radius: 4px;
-  background: #4D5AE5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  background-color: #4D5AE5;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  text-align: center;
+  cursor: pointer;
 }
+  
+
  
  .title-link {
   color:#2E2F42;
@@ -70,7 +82,7 @@ line-height: 1.5px;
 letter-spacing: 0.02em;
  }
 
- .subject{
+ .subject {
   color: #2E2F42;
   font-size: 36px;
   font-weight: 700;
@@ -81,6 +93,7 @@ letter-spacing: 0.02em;
  }
  .subject-item {
   color: #2E2F42;
+  text-align: center;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2px;
@@ -88,13 +101,14 @@ letter-spacing: 0.02em;
  }
  .subject-item-desk {
   color: #434455;
+  text-align: center;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5px;
   letter-spacing: 0.02em; 
  }
   
-.title-section{
+.title-section {
   color:#2E2F42;
   font-size: 36px;
   font-weight: 700;
@@ -119,14 +133,14 @@ letter-spacing: 0.02em;
   font-size: 16px;
  }
 
- .footer{
+ .footer {
   background: #2E2F42;
  }
  .span-footer {
   color: #4D5AE5;
  }
 
-.footer-html{
+.footer-html {
   color: #F4F4FD;
   font-weight: 700;
   line-height: 1.16px;
