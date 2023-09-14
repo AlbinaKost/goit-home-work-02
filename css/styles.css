@@ -9,7 +9,7 @@
    font-size: 18px;
    font-weight: 700;
    line-height: 1.16;
-   letter-spacing: 0.03px;
+   letter-spacing: 0.03em;
    text-transform: uppercase;
  }
 
@@ -22,7 +22,7 @@
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
  }
  
  .address-list {
@@ -30,14 +30,14 @@
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5px;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
  }
  .address-link {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5px;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
  }
 
  
@@ -60,14 +60,14 @@ letter-spacing: 1.02px;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2px;
-letter-spacing: 0.02px;
+letter-spacing: 0.02em;
  }
  .title-link-text {
   color: #434455;
 font-size: 16px;
 font-weight: 400;
 line-height: 1.5px;
-letter-spacing: 0.02px;
+letter-spacing: 0.02em;
  }
 
  .subject{
@@ -75,7 +75,7 @@ letter-spacing: 0.02px;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11px;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
  }
@@ -84,14 +84,14 @@ letter-spacing: 0.02px;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2px;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
  }
  .subject-item-desk {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5px;
-  letter-spacing: 0.02px; 
+  letter-spacing: 0.02em; 
  }
   
 .title-section{
@@ -99,7 +99,7 @@ letter-spacing: 0.02px;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11px;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
 }
@@ -108,14 +108,14 @@ letter-spacing: 0.02px;
   color: #2E2F42;
   font-weight: 500;
   line-height: 1.2px;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
   font-size: 20px;
 }
  .activity {
   color: #434455;
   font-weight: 400;
   line-height: 1.5px;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
   font-size: 16px;
  }
 
@@ -130,7 +130,7 @@ letter-spacing: 0.02px;
   color: #F4F4FD;
   font-weight: 700;
   line-height: 1.16px;
-  letter-spacing: 0.03px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   font-size: 18px;
 }
@@ -139,7 +139,7 @@ letter-spacing: 0.02px;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5px;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
   
  
 }
