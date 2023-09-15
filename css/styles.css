@@ -28,9 +28,13 @@
  }
  .header-link {
   color: #2e2f42;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
  }
 
-.header-link:hover {color: #404bbf}
+.header-link:hover {color: #404bbf;}
   
 
 .header-link:focus {color: #404bbf;}
@@ -45,11 +49,11 @@
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 1.5px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
  }
- 
- 
+ .address-list:hover { color: #404bbf; }
+ .address-list:focus { color: #404bbf; }
  .hero-title { 
   color: #FFF;
   text-align: center;
