@@ -26,20 +26,16 @@
  .span-studio {
   color:  #2e2f42;
  }
- .header-menu-item {
-  color: #2E2F42;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+ .header-link {
+  color: #2e2f42;
  }
 
-.header-menu-item:hover {
-  color: #404bbf;
-}  
-.header-menu-item:hover:focus {
-  color: #404bbf;
-}
+.header-link:hover {color: #404bbf}
+  
+
+.header-link:focus {color: #404bbf;}
+ 
+
 
  .adress {
   font-style: normal;
@@ -52,15 +48,7 @@
   line-height: 1.5px;
   letter-spacing: 0.02em;
  }
- .address-link {
-  color: #434455;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 1.5px;
-  letter-spacing: 0.02em;
- }
-
+ 
  
  .hero-title { 
   color: #FFF;
@@ -87,7 +75,7 @@
     background-color: #404BBF;
   }
   .hero-bye-btn:focus {
-    background-color: #404BBF
+    background-color: #404BBF;
   }
 
 
@@ -178,7 +166,10 @@ letter-spacing: 0.02em;
   color: #4D5AE5;
  }
 
- 
+ .footer-html{
+  font-family: "Raleway";
+  color: #4d5ae5;
+ }
 .footer-html {
   color: #F4F4FD;
   font-weight: 700;
