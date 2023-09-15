@@ -1,5 +1,5 @@
  body {
-    font-family:'Roboto',sans-serif;
+    font-family:'Roboto',sans-serif;   
     background-color: #FFFFFF;
     color: #434455;
  }
@@ -11,17 +11,17 @@
   background: #2E2F42;
 }
  .header-logo {
-   color: #2E2F42;
+   color: #4d5ae5 ;
    font-size: 18px;
    font-weight: 700;
-   line-height: 1.16;
+   line-height: 1.17;
    letter-spacing: 0.03em;
    text-transform: uppercase;
  }
 
   
  .span-studio {
-  color: #2e2f42;
+  color:  #2e2f42;
  }
  .header-menu-item {
   color: #2E2F42;
@@ -30,7 +30,9 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
  }
- 
+ .adress {
+  font-style: normal;
+ }
  .address-list {
   color:  #434455;
   font-size: 16px;
@@ -70,7 +72,14 @@
   text-align: center;
   cursor: pointer;
 }
-  
+  .hero-bye-btn:hover {
+    background-color: #404BBF;
+  }
+  .hero-bye-btn:focus {
+    background-color: #404BBF
+  }
+
+
 .title-text {
   line-height: 1.2;
 }
