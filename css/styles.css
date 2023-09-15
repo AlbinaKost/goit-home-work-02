@@ -3,6 +3,9 @@
     background-color: #FFFFFF;
     color: #434455;
  }
+.header-logo {
+  font-family: "Raleway", sans-serif
+}
 
  .header-menu-list {
   color: #2e2f42;
@@ -63,7 +66,7 @@
   color: #FFF;
   text-align: center;
   font-weight: 700;
-  line-height: 1.07px;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   font-size: 56px;
  }
@@ -113,7 +116,7 @@ letter-spacing: 0.02em;
   color: #2E2F42;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.2px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
@@ -134,15 +137,17 @@ letter-spacing: 0.02em;
   text-align: center;
   font-size: 16px;
   font-weight: 400;
-  line-height: 1.5px;
+  line-height: 1.5;
   letter-spacing: 0.02em; 
  }
-  
+  .class-photo {
+    background-color: #FFFFFF;
+  }
 .title-section {
   color:#2E2F42;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.11px;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
@@ -151,14 +156,14 @@ letter-spacing: 0.02em;
 .servises {
   color: #2E2F42;
   font-weight: 500;
-  line-height: 1.2px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   font-size: 20px;
 }
  .activity {
   color: #434455;
   font-weight: 400;
-  line-height: 1.5px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   font-size: 16px;
  }
@@ -166,13 +171,14 @@ letter-spacing: 0.02em;
  .footer {
   background: #2E2F42;
  }
+ .span-footer-studio {
+  color: #F4F4FD;
+ }
  .span-footer {
   color: #4D5AE5;
  }
- .span-studio{
-  color: #f4f4fd;
- }
 
+ 
 .footer-html {
   color: #F4F4FD;
   font-weight: 700;
@@ -185,10 +191,9 @@ letter-spacing: 0.02em;
   color: #F4F4FD;
   font-size: 16px;
   font-weight: 400;
-  line-height: 1.5px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
  }
-
 
 
 
