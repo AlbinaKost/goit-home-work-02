@@ -71,7 +71,9 @@
   cursor: pointer;
 }
   
-
+.title-text {
+  line-height: 1.2;
+}
  
  .title-link {
   color:#2E2F42;
@@ -80,7 +82,7 @@ font-weight: 500;
 line-height: 1.2px;
 letter-spacing: 0.02em;
  }
- .title-link-text {
+ .title-paragraph {
   color: #434455;
 font-size: 16px;
 font-weight: 400;
