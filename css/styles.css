@@ -108,7 +108,7 @@ letter-spacing: 0.02em;
   color: #2E2F42;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
@@ -166,13 +166,11 @@ letter-spacing: 0.02em;
  .span-footer-studio {
   color: #F4F4FD;
  }
- .span-web {
-  color: #4D5AE5;
- }
  
- .footer-html{
-  font-family: "Raleway";
-  color: #4d5ae5;
+ 
+ 
+ .footer-html {
+  font-family: "Raleway",sans-serif;
  }
 .footer-html {
   color: #F4F4FD;
